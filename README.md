@@ -1,2 +1,2 @@
-# 100daysofcoding
+# 100daysofcode
 просто ноутбуки в пути
